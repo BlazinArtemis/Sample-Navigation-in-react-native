@@ -16,7 +16,7 @@ git clone https://github.com/its-samwell/Sample-Navigation-in-react-native.git
 #### Navigate to existing react native project
 
 ```
-cd SwipeUi
+cd Sample-Navigation-in-react-native
 ```
 #### Install all packages(dependencies) 
 
