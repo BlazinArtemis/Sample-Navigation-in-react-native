@@ -1,6 +1,6 @@
 # Sample React Native Navigation
 
-####[Click here to open](https://snack.expo.io/@its_samwell/navigation-on-multiple-screens)
+#### [Click here to open](https://snack.expo.io/@its_samwell/navigation-on-multiple-screens)
 
 ### Prerequisites
 
