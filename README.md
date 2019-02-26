@@ -23,5 +23,8 @@ cd Sample-Navigation-in-react-native
 ```
 npm install
 ```
-
+#### Then
+```
+react-native run-android
+```
 
