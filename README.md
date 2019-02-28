@@ -13,12 +13,12 @@ Node
 ```
 git clone https://github.com/its-samwell/Sample-Navigation-in-react-native.git
 ```
-#### Navigate to existing react native project
+#### Go to existing react native project
 
 ```
 cd Sample-Navigation-in-react-native
 ```
-#### Install all packages(dependencies) 
+#### Install all dependencies
 
 ```
 npm install
